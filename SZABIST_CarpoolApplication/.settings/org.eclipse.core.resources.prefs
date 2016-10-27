@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/private/carpoolrequests.jsp=UTF-8
+encoding//WebContent/WEB-INF/private/offerride.jsp=UTF-8
+encoding//WebContent/WEB-INF/private/user.profile.jsp=UTF-8
+encoding//src/dao/impl/CarpoolRequestDAOImpl.java=UTF-8
